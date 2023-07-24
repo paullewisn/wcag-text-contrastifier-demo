@@ -59,7 +59,7 @@ function App() {
 
     return (
         <div className={styles.app}>
-            <h1>Demo for WCAG Text Contrast {standard}</h1>
+            <h1>Demo for WCAG Text Contrast {standard}:1</h1>
             <h2>
                 Uses{" "}
                 <a href="https://www.npmjs.com/package/wcag-text-contrastifier">
